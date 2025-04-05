@@ -55,16 +55,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "third changes.md",
+                "file": "My first personal note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "third changes"
+              "title": "My first personal note"
+            }
+          },
+          {
+            "id": "efc408b3ebe12611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My first personal note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My first personal note"
+            }
+          },
+          {
+            "id": "d0c74103ae213209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My first personal note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My first personal note"
+            }
+          },
+          {
+            "id": "fa4a54ad5d70ba94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Финансы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Финансы"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -137,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "third changes.md",
+                "file": "My first personal note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for third changes"
+              "title": "Backlinks for My first personal note"
             }
           },
           {
@@ -156,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "third changes.md",
+                "file": "My first personal note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from third changes"
+              "title": "Outgoing links from My first personal note"
             }
           },
           {
@@ -185,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "third changes.md",
+                "file": "My first personal note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of third changes"
+              "title": "Outline of My first personal note"
             }
           }
         ]
@@ -211,10 +253,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9c6891708088d6c",
+  "active": "fa4a54ad5d70ba94",
   "lastOpenFiles": [
+    "фото и видео/Снимок экрана 2025-04-05 в 13.36.41.png",
+    "Снимок экрана 2025-04-05 в 13.31.59.png",
+    "Финансы.md",
+    "Снимок экрана 2025-04-05 в 12.57.15.png",
+    "Welcome.md",
     "My first personal note.md",
-    "third changes.md",
-    "Welcome.md"
+    "фото и видео",
+    "third changes.md"
   ]
 }
