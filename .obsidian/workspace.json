@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8648770260a9f024",
+        "id": "71b2156be097ee59",
         "type": "tabs",
         "children": [
           {
-            "id": "0a7d7caec7a2df66",
+            "id": "7420cee59217b4e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Гайд на жизнь.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "bbc08054d70c29ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My first personal note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My first personal note"
-            }
-          },
-          {
-            "id": "9cc096e54c0ef6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My first personal note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My first personal note"
-            }
-          },
-          {
-            "id": "a9c6891708088d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My first personal note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My first personal note"
-            }
-          },
-          {
-            "id": "efc408b3ebe12611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My first personal note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My first personal note"
-            }
-          },
-          {
-            "id": "d0c74103ae213209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My first personal note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My first personal note"
-            }
-          },
-          {
-            "id": "fa4a54ad5d70ba94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Финансы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Финансы"
+              "title": "Гайд на жизнь"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,14 +168,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa4a54ad5d70ba94",
+  "active": "7420cee59217b4e0",
   "lastOpenFiles": [
-    "фото и видео/Снимок экрана 2025-04-05 в 13.36.41.png",
-    "Снимок экрана 2025-04-05 в 13.31.59.png",
-    "Финансы.md",
-    "Снимок экрана 2025-04-05 в 12.57.15.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 14.04.52.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 14.03.27.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 13.55.37.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 13.54.00.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 13.48.33.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 13.45.27.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 13.43.33.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 13.41.21.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 13.38.06.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 13.35.34.png",
+    "фото и видео/Снимок экрана 2025-04-06 в 13.34.14.png",
+    "Гайд на жизнь.md",
+    "Финансы",
     "Welcome.md",
     "My first personal note.md",
+    "Программирование",
+    "Финансы/Финансы.md",
     "фото и видео",
     "third changes.md"
   ]
