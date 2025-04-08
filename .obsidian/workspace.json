@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Java/ООП.md",
+                "file": "Программирование/Java/Core/ООП.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "ООП"
             }
+          },
+          {
+            "id": "dad839b84f74f879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Java/Core/String poll Integer pool.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String poll Integer pool"
+            }
+          },
+          {
+            "id": "1d1ac291405c45af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Java/Core/SOLID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOLID"
+            }
+          },
+          {
+            "id": "1157290e2dd5597a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Java/Core/Примитивы и Ссылки Heap и Stack, GC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Примитивы и Ссылки Heap и Stack, GC"
+            }
+          },
+          {
+            "id": "dbf4f5b5ce69518d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Java/Core/SOLID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOLID"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,14 +225,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2f4270f480a4738",
+  "active": "1157290e2dd5597a",
   "lastOpenFiles": [
+    "Программирование/Java/Core/String poll Integer pool.md",
+    "Программирование/Java/Core/SOLID.md",
+    "Программирование/Java/Core/ООП.md",
+    "SOLID принципы.md",
+    "Программирование/Java/Core/JVM JRE JDK.md",
+    "Программирование/Java/Core/Примитивы и Ссылки Heap и Stack, GC.md",
+    "Программирование/Java/Core",
+    "Программирование/Темы для конспектов.md",
     "фото и видео/Снимок экрана 2025-04-07 в 18.47.16.png",
     "фото и видео/Снимок экрана 2025-04-07 в 17.48.09.png",
-    "Программирование/Java/String poll Integer pool.md",
-    "Программирование/Java/ООП.md",
-    "Программирование/Java/Примитивы и Ссылочные типы данных.md",
-    "Программирование/Темы для конспектов.md",
     "Программирование/Java",
     "фото и видео/Снимок экрана 2025-04-07 в 17.06.45.png",
     "Гайд на жизнь.md",
@@ -187,7 +248,6 @@
     "фото и видео/Снимок экрана 2025-04-06 в 13.48.33.png",
     "фото и видео/Снимок экрана 2025-04-06 в 13.45.27.png",
     "фото и видео/Снимок экрана 2025-04-06 в 13.43.33.png",
-    "фото и видео/Снимок экрана 2025-04-06 в 13.41.21.png",
     "Финансы",
     "Welcome.md",
     "My first personal note.md",
