@@ -41,12 +41,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Java/Collections/Generics.md",
+                "file": "Программирование/Java/Collections/Questions from interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generics"
+              "title": "Questions from interview"
+            }
+          },
+          {
+            "id": "89c9f10a50b151aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Java/Core/Примитивы и Ссылки Heap и Stack, GC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Примитивы и Ссылки Heap и Stack, GC"
+            }
+          },
+          {
+            "id": "8460a263c09d4dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Java/Collections/Questions from interview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions from interview"
+            }
+          },
+          {
+            "id": "bcc0ad9e44fe5d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Java/Collections/Questions from interview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Questions from interview"
             }
           },
           {
@@ -78,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -225,32 +267,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d1ac291405c45af",
+  "active": "bcc0ad9e44fe5d33",
   "lastOpenFiles": [
+    "фото и видео/Снимок экрана 2025-04-12 в 19.58.51.png",
+    "Программирование/Java/Core/Примитивы и Ссылки Heap и Stack, GC.md",
+    "Программирование/Java/Collections/Questions from interview.md",
+    "Программирование/Java/Core/ООП.md",
+    "Программирование/Java/Core/JVM JRE JDK.md",
     "Программирование/Java/Collections/MAP.md",
+    "фото и видео/Снимок экрана 2025-04-12 в 18.53.52.png",
+    "фото и видео/Снимок экрана 2025-04-12 в 18.53.17.png",
+    "Программирование/Java/Collections/Generics.md",
+    "Программирование/Java/Core/SOLID.md",
+    "Программирование/Темы для конспектов.md",
     "Программирование/Java/Collections/Equals and Hashcode.md",
     "Программирование/Java/Collections/SET.md",
+    "Программирование/Java/Collections/LIST.md",
     "фото и видео/Снимок экрана 2025-04-12 в 10.36.31.png",
     "фото и видео/Снимок экрана 2025-04-12 в 10.23.34.png",
     "фото и видео/Снимок экрана 2025-04-12 в 10.08.07.png",
     "фото и видео/Снимок экрана 2025-04-12 в 10.07.52.png",
     "фото и видео/Снимок экрана 2025-04-12 в 10.05.01.png",
-    "Программирование/Java/Collections/LIST.md",
     "фото и видео/Снимок экрана 2025-04-12 в 09.16.03.png",
     "фото и видео/Снимок экрана 2025-04-12 в 09.13.20.png",
     "фото и видео/Снимок экрана 2025-04-12 в 09.09.48.png",
-    "фото и видео/Снимок экрана 2025-04-12 в 09.08.41.png",
-    "фото и видео/Снимок экрана 2025-04-12 в 09.06.29.png",
-    "Программирование/Java/Core/ООП.md",
     "Программирование/Java/Collections",
-    "Программирование/Java/Collections/Generics.md",
-    "Программирование/Java/Core/JVM JRE JDK.md",
-    "Программирование/Java/Core/Примитивы и Ссылки Heap и Stack, GC.md",
     "Программирование/Java/Core/String poll Integer pool.md",
-    "Программирование/Java/Core/SOLID.md",
     "SOLID принципы.md",
     "Программирование/Java/Core",
-    "Программирование/Темы для конспектов.md",
     "Программирование/Java",
     "Гайд на жизнь.md",
     "Обучение.md",
