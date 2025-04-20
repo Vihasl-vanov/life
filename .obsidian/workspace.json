@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My first personal note.md",
+                "file": "Программирование/Java/Collections/GENERICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My first personal note"
+              "title": "Backlinks for GENERICS"
             }
           },
           {
@@ -170,21 +170,24 @@
   },
   "active": "5e3b1571ba939da2",
   "lastOpenFiles": [
-    "Программирование/Java/Collections/POPULAR ALGO TECHNICS.md",
+    "Программирование/Java/Collections/BIG O.md",
+    "Программирование/Java/Core/LAMBDA && STREAM API.md",
+    "Программирование/Java/Core/ООП.md",
+    "Программирование/Java/Core/Примитивы и Ссылки Heap и Stack, GC.md",
     "Программирование/Java/Collections/Questions from interview.md",
+    "Программирование/Java/Core/SOLID.md",
+    "Программирование/Java/Collections/STACK QUEUE HEAP.md",
+    "Программирование/Java/Untitled.md",
+    "Программирование/Java/Multithreading",
+    "Программирование/Темы для конспектов.md",
+    "Программирование/Java/Collections/GENERICS.md",
+    "Программирование/Java/Collections/POPULAR ALGO TECHNICS.md",
     "Программирование/Java/Collections/MAP and SET.md",
     "Программирование/Java/Collections/LIST.md",
     "Программирование/Java/Collections/SET.md",
     "фото и видео/Снимок экрана 2025-04-15 в 09.57.58.png",
-    "Программирование/Java/Collections/BIG O.md",
     "фото и видео/Снимок экрана 2025-04-15 в 09.51.36.png",
-    "Программирование/Java/Core/LAMBDA && STREAM API.md",
-    "Программирование/Java/Core/ООП.md",
-    "Программирование/Java/Core/Примитивы и Ссылки Heap и Stack, GC.md",
-    "Программирование/Java/Collections/GENERICS.md",
-    "Программирование/Темы для конспектов.md",
     "Финансы/Финансы.md",
-    "Программирование/Java/Core/SOLID.md",
     "SOLID принципы.md",
     "Гайд на жизнь.md",
     "фото и видео/Снимок экрана 2025-04-05 в 13.36.41.png",
