@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Java/Collections/GENERICS.md",
+                "file": "Программирование/Java/Multithreading/MULTITHREADING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GENERICS"
+              "title": "MULTITHREADING"
             }
           }
         ]
@@ -171,16 +171,17 @@
   "active": "5e3b1571ba939da2",
   "lastOpenFiles": [
     "Программирование/Java/Collections/Equals and Hashcode.md",
-    "Программирование/Java/Collections/GENERICS.md",
-    "Программирование/Java/Collections/LIST.md",
-    "Программирование/Java/Collections/MAP and SET.md",
-    "Программирование/Java/Collections/POPULAR ALGO TECHNICS.md",
-    "Программирование/Java/Collections/STACK QUEUE HEAP.md",
+    "Программирование/Java/Multithreading/MULTITHREADING.md",
+    "Программирование/Java/Core/ООП.md",
+    "Программирование/Java/Core/LAMBDA && STREAM API.md",
     "Программирование/Java/Collections/Questions from interview.md",
+    "Программирование/Java/Collections/STACK QUEUE HEAP.md",
+    "Программирование/Java/Collections/MAP and SET.md",
+    "Программирование/Java/Collections/LIST.md",
+    "Программирование/Java/Collections/GENERICS.md",
+    "Программирование/Java/Collections/POPULAR ALGO TECHNICS.md",
     "Примитивы и Ссылки Heap и Stack, GC.md",
     "Программирование/Java/Collections/BIG O.md",
-    "Программирование/Java/Core/LAMBDA && STREAM API.md",
-    "Программирование/Java/Core/ООП.md",
     "Программирование/Java/Core/Примитивы и Ссылки Heap и Stack, GC.md",
     "Программирование/Java/Core/SOLID.md",
     "Программирование/Java/Untitled.md",
