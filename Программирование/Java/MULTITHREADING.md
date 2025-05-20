@@ -31,7 +31,7 @@ Thread thread = new Thread(new MyRunnable());
 thread.start();
 ```
 
-Использование ExecutorService - это предпочтительный способо
+Использование ExecutorService - это предпочтительный способ
 ```java
 ExecutorService executor = Executors.newSingleThreadExecutor();
 executor.submit(() -> {
