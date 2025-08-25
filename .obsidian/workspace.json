@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Темы для конспектов.md",
+                "file": "Программирование/plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Темы для конспектов"
-            }
-          },
-          {
-            "id": "eb018c4bc6d0f2f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Темы для конспектов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Темы для конспектов"
+              "title": "plan"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,18 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb018c4bc6d0f2f6",
+  "active": "067874bdf732de94",
   "lastOpenFiles": [
-    "Программирование/Общее развитие программиста.md",
-    "Программирование/plan.md",
     "Программирование/Темы для конспектов.md",
+    "Программирование/plan.md",
+    "Гайд на жизнь.md",
+    "Программирование/Общее развитие программиста.md",
     "Программирование/Kafka.md",
     "Программирование/Java/LAMBDA && STREAM API.md",
     "Программирование/Java/ООП.md",
     "Программирование/Java/MULTITHREADING.md",
     "Программирование/Database.md",
     "Программирование/Java/Collections/Concurrent Collections.md",
-    "Гайд на жизнь.md",
     "Финансы/Финансы.md",
     "фото и видео/Снимок экрана 2025-05-05 в 14.22.20.png",
     "фото и видео/Снимок экрана 2025-05-05 в 12.22.12.png",
