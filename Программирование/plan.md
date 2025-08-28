@@ -1,5 +1,0 @@
-- kafka from paper conspects
-- docker from paper conspects
-- test commit
-- ![[Снимок экрана 2025-08-25 в 12.53.59.png]]
-- 

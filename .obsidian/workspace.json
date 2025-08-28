@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Java/MULTITHREADING.md",
+                "file": "Программирование/Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MULTITHREADING"
+              "title": "Database"
             }
           }
         ],
@@ -186,10 +186,13 @@
   },
   "active": "c5d5434282be7cb6",
   "lastOpenFiles": [
-    "фото и видео/Снимок экрана 2025-08-28 в 16.05.44.png",
     "Программирование/Темы для конспектов.md",
-    "Программирование/Java/MULTITHREADING.md",
     "Программирование/Общее развитие программиста.md",
+    "Программирование/plan.md",
+    "Гайд на жизнь.md",
+    "Финансы/Финансы(основа).md",
+    "Программирование/Java/MULTITHREADING.md",
+    "фото и видео/Снимок экрана 2025-08-28 в 16.05.44.png",
     "Программирование/Java/LAMBDA && STREAM API.md",
     "Программирование/Java/ООП.md",
     "Программирование/Java/Collections/Collections.md",
@@ -201,10 +204,7 @@
     "Программирование/Java/Collections/STACK QUEUE HEAP.md",
     "Программирование/Java/Collections/Equals and Hashcode.md",
     "Программирование/Java/Collections/LIST.md",
-    "Финансы/Финансы.md",
     "фото и видео/Снимок экрана 2025-08-25 в 12.53.59.png",
-    "Программирование/plan.md",
-    "Гайд на жизнь.md",
     "Программирование/Kafka.md",
     "Программирование/Database.md",
     "Программирование/Java/Collections/Concurrent Collections.md",
@@ -223,7 +223,6 @@
     "фото и видео/Снимок экрана 2025-04-15 в 09.51.36.png",
     "фото и видео/Снимок экрана 2025-04-05 в 13.36.41.png",
     "фото и видео/Снимок экрана 2025-04-06 в 09.47.13.png",
-    "фото и видео/Снимок экрана 2025-04-12 в 19.58.51.png",
     "Программирование/Java/Collections",
     "Программирование/Java/Core",
     "Программирование/Java",
