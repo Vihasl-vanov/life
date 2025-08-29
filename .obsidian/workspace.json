@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Database.md",
+                "file": "Программирование/DISTRIBUTED SYSTEMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database"
+              "title": "DISTRIBUTED SYSTEMS"
             }
           }
         ],
@@ -186,6 +186,8 @@
   },
   "active": "c5d5434282be7cb6",
   "lastOpenFiles": [
+    "Программирование/DATABASE.md",
+    "Программирование/DISTRIBUTED SYSTEMS.md",
     "Программирование/Темы для конспектов.md",
     "Программирование/Общее развитие программиста.md",
     "Программирование/plan.md",
@@ -206,7 +208,6 @@
     "Программирование/Java/Collections/LIST.md",
     "фото и видео/Снимок экрана 2025-08-25 в 12.53.59.png",
     "Программирование/Kafka.md",
-    "Программирование/Database.md",
     "Программирование/Java/Collections/Concurrent Collections.md",
     "фото и видео/Снимок экрана 2025-05-05 в 14.22.20.png",
     "фото и видео/Снимок экрана 2025-05-05 в 12.22.12.png",
