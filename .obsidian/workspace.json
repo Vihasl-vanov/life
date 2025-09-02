@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "ee8cf68b1f3acd64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/TESTING.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TESTING"
-            }
-          },
-          {
             "id": "a880f0eda9bf24ae",
             "type": "leaf",
             "state": {
@@ -92,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,22 +226,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee8cf68b1f3acd64",
+  "active": "c5d5434282be7cb6",
   "lastOpenFiles": [
-    "Программирование/MICROSERVICES.md",
+    "Программирование/TO DO.md",
+    "Программирование/JAVA/ООП.md",
+    "Программирование/API COMMUNICATIONS.md",
+    "Программирование/BASIC BACKEND.md",
+    "Программирование/JAVA/LAMBDA && STREAM API.md",
+    "Программирование/SOFT SKILLS.md",
+    "Программирование/DATABASE.md",
+    "Программирование/Темы для конспектов.md",
+    "фото и видео/Снимок экрана 2025-09-02 в 15.56.54.png",
+    "фото и видео/Снимок экрана 2025-09-02 в 15.54.44.png",
+    "фото и видео/Снимок экрана 2025-09-02 в 15.52.18.png",
+    "фото и видео/Снимок экрана 2025-09-02 в 15.51.09.png",
     "Программирование/TESTING.md",
+    "Программирование/MICROSERVICES.md",
     "Программирование/HIBERNATE.md",
     "Программирование/JAVA/COLLECTIONS/Collections.md",
-    "Программирование/JAVA/ООП.md",
-    "Программирование/JAVA/LAMBDA && STREAM API.md",
     "Программирование/JAVA/MULTITHREADING.md",
     "Программирование/JAVA/MEMORY.md",
     "Программирование/Общее развитие программиста.md",
-    "Программирование/Темы для конспектов.md",
-    "Программирование/API COMMUNICATIONS.md",
     "Программирование/DISTRIBUTED SYSTEMS.md",
-    "Программирование/BASIC BACKEND.md",
-    "Программирование/DATABASE.md",
     "Программирование/SPRING.md",
     "фото и видео/Снимок экрана 2025-09-01 в 11.24.41.png",
     "фото и видео/Снимок экрана 2025-09-01 в 11.22.30.png",
@@ -263,10 +255,6 @@
     "фото и видео/Снимок экрана 2025-08-31 в 19.10.24.png",
     "фото и видео/Снимок экрана 2025-08-31 в 18.42.50.png",
     "фото и видео/Снимок экрана 2025-08-31 в 18.03.48.png",
-    "фото и видео/Снимок экрана 2025-08-31 в 14.57.30.png",
-    "фото и видео/Снимок экрана 2025-08-31 в 14.55.36.png",
-    "фото и видео/Снимок экрана 2025-08-31 в 10.27.35.png",
-    "фото и видео/Снимок экрана 2025-08-31 в 10.23.36.png",
     "Программирование/Kafka.md",
     "Программирование/plan.md",
     "Гайд на жизнь.md",
@@ -276,8 +264,6 @@
     "Программирование/JAVA/COLLECTIONS/Questions from interview.md",
     "Программирование/Java/Collections/BIG O.md",
     "Программирование/Java/Collections/STACK QUEUE HEAP.md",
-    "Программирование/Java/Collections/Equals and Hashcode.md",
-    "Программирование/Java/Collections/LIST.md",
     "Программирование/Database",
     "Программирование/Java/Multithreading",
     "Программирование/JAVA/COLLECTIONS",
