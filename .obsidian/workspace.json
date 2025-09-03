@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Темы для конспектов.md",
+                "file": "Программирование/TO DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Темы для конспектов"
+              "title": "TO DO"
             }
           },
           {
@@ -226,16 +226,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5d5434282be7cb6",
+  "active": "067874bdf732de94",
   "lastOpenFiles": [
-    "Программирование/TO DO.md",
+    "Программирование/DATABASE.md",
+    "Программирование/JAVA/MULTITHREADING.md",
+    "Программирование/JAVA/MEMORY.md",
     "Программирование/JAVA/ООП.md",
-    "Программирование/API COMMUNICATIONS.md",
     "Программирование/BASIC BACKEND.md",
+    "Программирование/Темы для конспектов.md",
+    "Программирование/TO DO.md",
+    "Программирование/API COMMUNICATIONS.md",
     "Программирование/JAVA/LAMBDA && STREAM API.md",
     "Программирование/SOFT SKILLS.md",
-    "Программирование/DATABASE.md",
-    "Программирование/Темы для конспектов.md",
     "фото и видео/Снимок экрана 2025-09-02 в 15.56.54.png",
     "фото и видео/Снимок экрана 2025-09-02 в 15.54.44.png",
     "фото и видео/Снимок экрана 2025-09-02 в 15.52.18.png",
@@ -244,8 +246,6 @@
     "Программирование/MICROSERVICES.md",
     "Программирование/HIBERNATE.md",
     "Программирование/JAVA/COLLECTIONS/Collections.md",
-    "Программирование/JAVA/MULTITHREADING.md",
-    "Программирование/JAVA/MEMORY.md",
     "Программирование/Общее развитие программиста.md",
     "Программирование/DISTRIBUTED SYSTEMS.md",
     "Программирование/SPRING.md",

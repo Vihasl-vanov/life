@@ -1,7 +1,6 @@
-java middle, java senior вопросы из пула
+java senior вопросы из пула
 k8 основы
 арзитектурные паттерны
-linux(основные команды)
 kafka
 
 
