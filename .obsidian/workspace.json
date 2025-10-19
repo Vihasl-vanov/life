@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/JAVA/COLLECTIONS/Questions from interview.md",
+                "file": "Гайд на жизнь.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions from interview"
+              "title": "Гайд на жизнь"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Гайд на жизнь.md",
+                "file": "Программирование/API COMMUNICATIONS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гайд на жизнь"
+              "title": "API COMMUNICATIONS"
             }
           },
           {
@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "API COMMUNICATIONS"
             }
+          },
+          {
+            "id": "3436c52576f53cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ОТНОШЕНИЯ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ОТНОШЕНИЯ"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -254,24 +268,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13cbb5115ece4eae",
+  "active": "3436c52576f53cca",
   "lastOpenFiles": [
-    "Финансы(основа).md",
-    "СОН.md",
-    "СЧАСТЬЕ.md",
+    "ФИНАНСЫ(основа).md",
+    "ОТНОШЕНИЯ.md",
     "Гайд на жизнь.md",
+    "СОН.md",
+    "Программирование/JAVA/COLLECTIONS/Questions from interview.md",
+    "Программирование/API COMMUNICATIONS.md",
+    "Программирование/TO DO.md",
+    "СЧАСТЬЕ.md",
     "Программирование/DISTRIBUTED SYSTEMS.md",
     "Программирование/HIBERNATE.md",
     "Программирование/SOFT SKILLS.md",
     "Программирование/TESTING.md",
-    "Программирование/TO DO.md",
     "Программирование/SPRING.md",
     "Программирование/DATABASE.md",
     "Программирование/BASIC BACKEND.md",
-    "Программирование/API COMMUNICATIONS.md",
     "Программирование/Общее развитие программиста.md",
     "Программирование/Темы для конспектов.md",
-    "Программирование/JAVA/COLLECTIONS/Questions from interview.md",
     "Программирование/JAVA/COLLECTIONS/POPULAR ALGO TECHNICS.md",
     "Программирование/JAVA/COLLECTIONS/Generics.md",
     "Программирование/JAVA/COLLECTIONS/Collections.md",
@@ -282,7 +297,6 @@
     "СЧАСТЬЕ И СТАБИЛЬНОСТЬ.md",
     "фото и видео/Снимок экрана 2025-09-09 в 16.37.52.png",
     "Программирование/K8.md",
-    "Программирование/MICROSERVICES.md",
     "фото и видео/Снимок экрана 2025-09-02 в 15.56.54.png",
     "фото и видео/Снимок экрана 2025-09-02 в 15.54.44.png",
     "фото и видео/Снимок экрана 2025-09-02 в 15.52.18.png",
