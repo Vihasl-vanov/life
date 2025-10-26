@@ -111,16 +111,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Гайд на жизнь.md",
+                "file": "СОН.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гайд на жизнь"
+              "title": "СОН"
+            }
+          },
+          {
+            "id": "b628c11c70772ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГАЙД НА ЖИЗНЬ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ГАЙД НА ЖИЗНЬ"
+            }
+          },
+          {
+            "id": "da922badda0d80ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СЧАСТЬЕ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "СЧАСТЬЕ"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -268,14 +296,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3436c52576f53cca",
+  "active": "da922badda0d80ed",
   "lastOpenFiles": [
-    "ОТНОШЕНИЯ.md",
+    "ГАЙД НА ЖИЗНЬ.md",
     "СОН.md",
-    "СЧАСТЬЕ.md",
     "ФИНАНСЫ(основа).md",
-    "Программирование/JAVA/LAMBDA && STREAM API.md",
+    "Untitled.md",
+    "ЗДОРОВЬЕ.md",
+    "фото и видео/Снимок экрана 2025-10-26 в 14.50.46.png",
+    "СЧАСТЬЕ.md",
+    "ОТНОШЕНИЯ.md",
     "Программирование/JAVA/ООП.md",
+    "Программирование/JAVA/LAMBDA && STREAM API.md",
     "Программирование/JAVA/COLLECTIONS/Questions from interview.md",
     "Программирование/JAVA/COLLECTIONS/POPULAR ALGO TECHNICS.md",
     "Программирование/JAVA/COLLECTIONS/Generics.md",
@@ -284,7 +316,6 @@
     "Программирование/TESTING.md",
     "Программирование/SOFT SKILLS.md",
     "Программирование/TO DO.md",
-    "Гайд на жизнь.md",
     "Программирование/API COMMUNICATIONS.md",
     "Программирование/DISTRIBUTED SYSTEMS.md",
     "Программирование/HIBERNATE.md",
@@ -293,10 +324,7 @@
     "Программирование/BASIC BACKEND.md",
     "Программирование/Общее развитие программиста.md",
     "Программирование/Темы для конспектов.md",
-    "Программирование/JAVA/MEMORY.md",
-    "СЧАСТЬЕ И СТАБИЛЬНОСТЬ.md",
     "фото и видео/Снимок экрана 2025-09-09 в 16.37.52.png",
-    "Программирование/K8.md",
     "фото и видео/Снимок экрана 2025-09-02 в 15.56.54.png",
     "фото и видео/Снимок экрана 2025-09-02 в 15.54.44.png",
     "фото и видео/Снимок экрана 2025-09-02 в 15.52.18.png",
@@ -305,7 +333,6 @@
     "фото и видео/Снимок экрана 2025-09-01 в 11.22.30.png",
     "фото и видео/Снимок экрана 2025-09-01 в 11.15.36.png",
     "фото и видео/Снимок экрана 2025-08-31 в 19.10.24.png",
-    "фото и видео/Снимок экрана 2025-08-31 в 18.42.50.png",
     "Программирование/Database",
     "Программирование/Java/Multithreading",
     "Программирование/JAVA/COLLECTIONS",
