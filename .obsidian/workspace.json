@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/API COMMUNICATIONS.md",
+                "file": "BOOKS/КАК БЫТЬ СТОИКОМ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API COMMUNICATIONS"
+              "title": "КАК БЫТЬ СТОИКОМ"
             }
           },
           {
@@ -139,16 +139,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СЧАСТЬЕ.md",
+                "file": "Программирование/DISTRIBUTED SYSTEMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "СЧАСТЬЕ"
+              "title": "DISTRIBUTED SYSTEMS"
+            }
+          },
+          {
+            "id": "aefcb935b959e041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOKS/КАК БЫТЬ СТОИКОМ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "КАК БЫТЬ СТОИКОМ"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -296,34 +310,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da922badda0d80ed",
+  "active": "15f5b8622cf77772",
   "lastOpenFiles": [
-    "ГАЙД НА ЖИЗНЬ.md",
-    "СОН.md",
-    "ФИНАНСЫ(основа).md",
-    "Untitled.md",
-    "ЗДОРОВЬЕ.md",
-    "фото и видео/Снимок экрана 2025-10-26 в 14.50.46.png",
-    "СЧАСТЬЕ.md",
-    "ОТНОШЕНИЯ.md",
-    "Программирование/JAVA/ООП.md",
-    "Программирование/JAVA/LAMBDA && STREAM API.md",
+    "Программирование/API COMMUNICATIONS.md",
+    "BOOKS/КАК БЫТЬ СТОИКОМ.md",
+    "фото и видео/Снимок экрана 2025-11-08 в 15.43.18.png",
+    "BOOKS/ТОНКОЕ ИСКУССТВО ПОФИГИЗМА.md",
+    "Программирование/SYSTEM DESIGHN.md",
+    "BOOKS",
+    "Программирование/DISTRIBUTED SYSTEMS.md",
+    "Программирование/Общее развитие программиста.md",
+    "Программирование/JAVA/COLLECTIONS/Collections.md",
+    "Программирование/JAVA/COLLECTIONS/Generics.md",
     "Программирование/JAVA/COLLECTIONS/Questions from interview.md",
     "Программирование/JAVA/COLLECTIONS/POPULAR ALGO TECHNICS.md",
-    "Программирование/JAVA/COLLECTIONS/Generics.md",
-    "Программирование/JAVA/COLLECTIONS/Collections.md",
     "Программирование/JAVA/MULTITHREADING.md",
-    "Программирование/TESTING.md",
-    "Программирование/SOFT SKILLS.md",
-    "Программирование/TO DO.md",
-    "Программирование/API COMMUNICATIONS.md",
-    "Программирование/DISTRIBUTED SYSTEMS.md",
-    "Программирование/HIBERNATE.md",
-    "Программирование/SPRING.md",
+    "Программирование/JAVA/MEMORY.md",
+    "Программирование/JAVA/LAMBDA && STREAM API.md",
+    "Программирование/JAVA/ООП.md",
     "Программирование/DATABASE.md",
-    "Программирование/BASIC BACKEND.md",
-    "Программирование/Общее развитие программиста.md",
-    "Программирование/Темы для конспектов.md",
+    "Программирование/HIBERNATE.md",
+    "Программирование/SOFT SKILLS.md",
+    "Программирование/SPRING.md",
+    "Программирование/TESTING.md",
+    "Программирование/TO DO.md",
+    "ФИНАНСЫ(основа).md",
+    "СОН.md",
+    "ОТНОШЕНИЯ.md",
+    "ГАЙД НА ЖИЗНЬ.md",
+    "ЗДОРОВЬЕ.md",
+    "фото и видео/Снимок экрана 2025-10-26 в 14.50.46.png",
     "фото и видео/Снимок экрана 2025-09-09 в 16.37.52.png",
     "фото и видео/Снимок экрана 2025-09-02 в 15.56.54.png",
     "фото и видео/Снимок экрана 2025-09-02 в 15.54.44.png",
@@ -332,7 +348,6 @@
     "фото и видео/Снимок экрана 2025-09-01 в 11.24.41.png",
     "фото и видео/Снимок экрана 2025-09-01 в 11.22.30.png",
     "фото и видео/Снимок экрана 2025-09-01 в 11.15.36.png",
-    "фото и видео/Снимок экрана 2025-08-31 в 19.10.24.png",
     "Программирование/Database",
     "Программирование/Java/Multithreading",
     "Программирование/JAVA/COLLECTIONS",
