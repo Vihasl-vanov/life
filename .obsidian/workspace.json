@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOOKS/ЗАПРАВЛЯЙ КРОВАТЬ.md",
+                "file": "BOOKS/АНТИХРУПКОСТЬ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ЗАПРАВЛЯЙ КРОВАТЬ"
+              "title": "АНТИХРУПКОСТЬ"
             }
           },
           {
@@ -312,8 +312,8 @@
   },
   "active": "15f5b8622cf77772",
   "lastOpenFiles": [
-    "BOOKS/АНТИХРУПКОСТЬ.md",
     "BOOKS/ЗАПРАВЛЯЙ КРОВАТЬ.md",
+    "BOOKS/АНТИХРУПКОСТЬ.md",
     "ГАЙД НА ЖИЗНЬ.md",
     "ОТНОШЕНИЯ.md",
     "СОН.md",
