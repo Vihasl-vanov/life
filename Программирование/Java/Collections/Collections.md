@@ -88,7 +88,7 @@ static final class TreeNode<K,V> {
     - По умолчанию — **порядок вставки** (`insertion-order`).
     - Можно настроить на **порядок доступа** (`access-order`) (используется в LRU-кэшах).
 
-## General overview
+## Map General overview
 ![[Снимок экрана 2025-04-12 в 10.36.31.png]]
 - Упорядоченность элементов
 - Доступ по индексу
