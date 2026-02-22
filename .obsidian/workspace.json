@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "10e80d7707840b03",
+        "id": "1bc94082dd95da0f",
         "type": "tabs",
         "children": [
           {
-            "id": "8a8fa6917aaae57a",
+            "id": "e3ba12dd1acd12d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЗДОРОВЬЕ.md",
+                "file": "Программирование/DISTRIBUTED SYSTEMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ЗДОРОВЬЕ"
+              "title": "DISTRIBUTED SYSTEMS"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5026054382324,
-    "collapsed": true
+    "width": 345.5026054382324
   },
   "right": {
     "id": "ad13db4b7a703119",
@@ -170,8 +169,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a8fa6917aaae57a",
+  "active": "e3ba12dd1acd12d7",
   "lastOpenFiles": [
+    "Программирование/CLOUDS.md",
+    "Программирование/DATABASE.md",
+    "Программирование/SYSTEM DESIGN/МОНОЛИТНАЯ АРХИТЕКТУРА.md",
+    "Программирование/SYSTEM DESIGN/МОДУЛЬНЫЙ МОНОЛИТ.md",
+    "Программирование/SYSTEM DESIGN/НФТ/ADR.md",
+    "Программирование/SYSTEM DESIGN/Untitled",
+    "Программирование/SYSTEM DESIGN/НФТ",
+    "Программирование/SYSTEM DESIGN/НФТ/C4 нотации(plant uml).md",
+    "Программирование/SYSTEM DESIGN/НФТ/HIGHLOAD.md",
+    "Программирование/SYSTEM DESIGN/НФТ/SCALABILITY AND MAINTAINABILITY.md",
+    "Программирование/SYSTEM DESIGN/НФТ/LATENCY AND RESPONSE TIME.md",
+    "Программирование/SYSTEM DESIGN/НФТ/AVAILABILITY VS RELIABILITY.md",
+    "Программирование/SYSTEM DESIGN/нфт.md",
+    "MTBF.md",
+    "ЗДОРОВЬЕ.md",
+    "Программирование/SYSTEM DESIGN",
+    "Программирование/Untitled.md",
+    "Программирование/SYSTEM DESIGN COURSE.md",
+    "фото и видео/Снимок экрана 2026-02-21 в 14.38.35.png",
+    "фото и видео/Снимок экрана 2026-02-21 в 14.35.06.png",
+    "фото и видео/Снимок экрана 2026-02-19 в 23.01.26.png",
+    "ФИНАНСЫ(основа).md",
+    "ГАЙД НА ЖИЗНЬ.md",
+    "фото и видео/Снимок экрана 2026-01-10 в 14.55.45.png",
     "фото и видео/07EB9C2C-DBFB-47CF-B204-273A29188BBF_1_105_c.jpeg",
     "фото и видео/98251910-AC55-4F74-B4D1-845B882380C4_1_105_c.jpeg",
     "фото и видео/85B14CBD-AEC6-4086-A3F9-10E482E589DD_1_105_c.jpeg",
@@ -181,42 +204,18 @@
     "Программирование/TESTING.md",
     "Программирование/HIBERNATE.md",
     "Фильмы.md",
-    "Программирование/CLOUDS.md",
     "Программирование/Общее развитие программиста.md",
     "Программирование/BASIC BACKEND.md",
-    "ФИНАНСЫ(основа).md",
     "ОТНОШЕНИЯ.md",
-    "МЯСО.md",
-    "ГАЙД НА ЖИЗНЬ.md",
-    "BOOKS/ПСИХОЛОГИЯ ДЕНЕГ.md",
-    "ЗДОРОВЬЕ.md",
-    "Программирование/JAVA/MULTITHREADING.md",
-    "BOOKS/АНТИХРУПКОСТЬ.md",
     "Untitled.base",
     "Untitled 1.base",
-    "BOOKS/ВСЁ ХРЕНОВО.md",
-    "BOOKS/АРХИТЕКТУРА КОРПОРАТИВНЫХ ПРИЛОЖЕНИЙ.md",
-    "Программирование/SOFT SKILLS.md",
-    "Программирование/DISTRIBUTED SYSTEMS.md",
-    "Программирование/DATABASE.md",
-    "Программирование/JAVA/COLLECTIONS/Questions from interview.md",
-    "Программирование/JAVA/COLLECTIONS/Generics.md",
-    "Программирование/JAVA/COLLECTIONS/Collections.md",
     "фото и видео/Снимок экрана 2026-01-24 в 13.02.23.png",
     "фото и видео/Снимок экрана 2026-01-24 в 13.02.00.png",
     "фото и видео/Снимок экрана 2026-01-24 в 13.01.38.png",
-    "фото и видео/Снимок экрана 2026-01-24 в 13.01.09.png",
-    "фото и видео/Снимок экрана 2026-01-24 в 13.00.21.png",
-    "фото и видео/Снимок экрана 2026-01-24 в 12.59.54.png",
-    "фото и видео/Снимок экрана 2026-01-24 в 12.59.36.png",
-    "фото и видео/Снимок экрана 2026-01-24 в 12.57.34.png",
     "Untitled 2.base",
     "фото и видео/Иванов-анализы6.pdf",
     "фото и видео/Иванов-анализы5.pdf",
     "фото и видео/Иванов-анализы4.pdf",
-    "фото и видео/Иванов-анализы3.pdf",
-    "фото и видео/Иванов-анализы2.pdf",
-    "фото и видео/Иванов-анализы1.pdf",
-    "фото и видео/Иванов ВВ -экг.pdf"
+    "фото и видео/Иванов-анализы3.pdf"
   ]
 }
