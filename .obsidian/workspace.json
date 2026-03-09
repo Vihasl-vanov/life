@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/DISTRIBUTED SYSTEMS.md",
+                "file": "Программирование/SYSTEM DESIGN/МОНОЛИТНАЯ АРХИТЕКТУРА.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DISTRIBUTED SYSTEMS"
+              "title": "МОНОЛИТНАЯ АРХИТЕКТУРА"
             }
           }
         ]
@@ -171,12 +171,19 @@
   },
   "active": "e3ba12dd1acd12d7",
   "lastOpenFiles": [
+    "Программирование/SYSTEM DESIGN/МИКРОСЕРВИСНАЯ АРХИТЕКТУРА.md",
+    "Программирование/SYSTEM DESIGN/МАСШТАБИРОВАНИЕ СИСТЕМ/API GATEWAY.md",
+    "Программирование/SYSTEM DESIGN/МАСШТАБИРОВАНИЕ СИСТЕМ/LOAD BALANCERS.md",
+    "Программирование/SYSTEM DESIGN/МАСШТАБИРОВАНИЕ СИСТЕМ/ВЕРТИКАЛЬНОЕ И ГОРИЗОНТАЛЬНОЕ МАСШТАБИРОВАНИЕ.md",
+    "Программирование/SYSTEM DESIGN/МАСШТАБИРОВАНИЕ СИСТЕМ",
+    "Программирование/SYSTEM DESIGN/МАСШТАБИРОВАНИЕ СИСТЕМ/RATE LIMITER.md",
+    "Программирование/JAVA/ООП.md",
+    "Программирование/DISTRIBUTED SYSTEMS.md",
     "Программирование/CLOUDS.md",
     "Программирование/DATABASE.md",
     "Программирование/SYSTEM DESIGN/МОНОЛИТНАЯ АРХИТЕКТУРА.md",
     "Программирование/SYSTEM DESIGN/МОДУЛЬНЫЙ МОНОЛИТ.md",
     "Программирование/SYSTEM DESIGN/НФТ/ADR.md",
-    "Программирование/SYSTEM DESIGN/Untitled",
     "Программирование/SYSTEM DESIGN/НФТ",
     "Программирование/SYSTEM DESIGN/НФТ/C4 нотации(plant uml).md",
     "Программирование/SYSTEM DESIGN/НФТ/HIGHLOAD.md",
@@ -200,13 +207,6 @@
     "фото и видео/85B14CBD-AEC6-4086-A3F9-10E482E589DD_1_105_c.jpeg",
     "Программирование/NGINX.md",
     "Программирование/OBSERVABILITY.md",
-    "Программирование/SPRING.md",
-    "Программирование/TESTING.md",
-    "Программирование/HIBERNATE.md",
-    "Фильмы.md",
-    "Программирование/Общее развитие программиста.md",
-    "Программирование/BASIC BACKEND.md",
-    "ОТНОШЕНИЯ.md",
     "Untitled.base",
     "Untitled 1.base",
     "фото и видео/Снимок экрана 2026-01-24 в 13.02.23.png",
