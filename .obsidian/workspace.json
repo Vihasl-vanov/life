@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Фильмы"
             }
+          },
+          {
+            "id": "ee490c7a0b21d7d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOOKS/ТОНКОЕ ИСКУССТВО ПОФИГИЗМА.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ТОНКОЕ ИСКУССТВО ПОФИГИЗМА"
+            }
+          },
+          {
+            "id": "e7fd5cf09212eb0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Валютные удалёнки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Валютные удалёнки"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,14 +212,17 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "fcaf26e9dab7d6e2",
+  "active": "e7fd5cf09212eb0a",
   "lastOpenFiles": [
-    "BOOKS/КАК БЫТЬ СТОИКОМ.md",
-    "BOOKS/ЗАПРАВЛЯЙ КРОВАТЬ.md",
-    "BOOKS/ВСЁ ХРЕНОВО.md",
+    "BOOKS/ТОНКОЕ ИСКУССТВО ПОФИГИЗМА.md",
+    "Валютные удалёнки.md",
     "BOOKS/АНТИХРУПКОСТЬ.md",
-    "BOOKS/АРХИТЕКТУРА КОРПОРАТИВНЫХ ПРИЛОЖЕНИЙ.md",
+    "BOOKS/ВСЁ ХРЕНОВО.md",
+    "BOOKS/КАК БЫТЬ СТОИКОМ.md",
     "ГАЙД НА ЖИЗНЬ.md",
+    "Программирование/TESTING.md",
+    "BOOKS/ЗАПРАВЛЯЙ КРОВАТЬ.md",
+    "BOOKS/АРХИТЕКТУРА КОРПОРАТИВНЫХ ПРИЛОЖЕНИЙ.md",
     "ЗДОРОВЬЕ.md",
     "МЯСО.md",
     "ОТНОШЕНИЯ.md",
@@ -200,8 +231,6 @@
     "Программирование/SOFT SKILLS.md",
     "Программирование/BASIC BACKEND.md",
     "BOOKS/ПСИХОЛОГИЯ ДЕНЕГ.md",
-    "BOOKS/ТОНКОЕ ИСКУССТВО ПОФИГИЗМА.md",
-    "Программирование/TESTING.md",
     "Программирование/SPRING.md",
     "Программирование/SYSTEM DESIGN/МОНОЛИТНАЯ АРХИТЕКТУРА.md",
     "Программирование/SYSTEM DESIGN/МИКРОСЕРВИСНАЯ АРХИТЕКТУРА.md",
@@ -212,7 +241,6 @@
     "Программирование/SYSTEM DESIGN/МАСШТАБИРОВАНИЕ СИСТЕМ/RATE LIMITER.md",
     "Программирование/JAVA/ООП.md",
     "Программирование/DISTRIBUTED SYSTEMS.md",
-    "Программирование/CLOUDS.md",
     "Программирование/SYSTEM DESIGN/НФТ",
     "Программирование/SYSTEM DESIGN",
     "фото и видео/Снимок экрана 2026-02-21 в 14.38.35.png",
