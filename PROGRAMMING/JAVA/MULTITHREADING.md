@@ -291,12 +291,12 @@ public String consume() throws InterruptedException {
 
 ### **Альтернативы в современном Java**
  **`Lock` + `Condition`** (из `java.util.concurrent.locks`)
- ```java
+ java
 Lock lock = new ReentrantLock();
 Condition notEmpty = lock.newCondition();
 notEmpty.await();  // Аналог wait()
 notEmpty.signal(); // Аналог notify()
-```
+
 
 **Блокирующие очереди** (`BlockingQueue`, `LinkedBlockingQueue`)
 
@@ -384,7 +384,7 @@ ThreadPool (пул потоков) — это механизм для управ
 
 **Варианты реализации**
  **ThreadPoolExecutor (базовый вариант)**
- ```java
+
  ThreadPoolExecutor executor = new ThreadPoolExecutor(
     5, // corePoolSize
     10, // maximumPoolSize
@@ -392,7 +392,6 @@ ThreadPool (пул потоков) — это механизм для управ
     TimeUnit.SECONDS, // единицы измерения времени
     new LinkedBlockingQueue<>() // очередь задач
 );
-```
 **FixedThreadPool** — фиксированное количество потоков:
 ```java
 ExecutorService executor = Executors.newFixedThreadPool(4);

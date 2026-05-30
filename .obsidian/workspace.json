@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc94082dd95da0f",
+        "id": "98818f7824b299a4",
         "type": "tabs",
         "children": [
           {
-            "id": "fcaf26e9dab7d6e2",
+            "id": "03807fa06504cceb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фильмы.md",
+                "file": "PROGRAMMING/DISTRIBUTED SYSTEMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фильмы"
-            }
-          },
-          {
-            "id": "ee490c7a0b21d7d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BOOKS/ТОНКОЕ ИСКУССТВО ПОФИГИЗМА.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ТОНКОЕ ИСКУССТВО ПОФИГИЗМА"
-            }
-          },
-          {
-            "id": "e7fd5cf09212eb0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROGRAMMING/Общее развитие программиста.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Общее развитие программиста"
-            }
-          },
-          {
-            "id": "9b260e9ce2f9cb09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BASIC/ОТНОШЕНИЯ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ОТНОШЕНИЯ"
-            }
-          },
-          {
-            "id": "e353d4b7fb6cf3f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BASIC/ГАЙД НА ЖИЗНЬ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ГАЙД НА ЖИЗНЬ"
+              "title": "DISTRIBUTED SYSTEMS"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,35 +169,38 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e353d4b7fb6cf3f0",
+  "active": "03807fa06504cceb",
   "lastOpenFiles": [
+    "PROGRAMMING/JAVA/LAMBDA && STREAM API.md",
+    "PROGRAMMING/JAVA/MULTITHREADING.md",
+    "PROGRAMMING/BASIC BACKEND.md",
+    "PROGRAMMING/CLOUDS.md",
+    "PROGRAMMING/OBSERVABILITY.md",
+    "PROGRAMMING/NGINX.md",
+    "PROGRAMMING/DATABASE.md",
+    "PROGRAMMING/JAVA/COLLECTIONS/Collections.md",
+    "PROGRAMMING/DISTRIBUTED SYSTEMS.md",
+    "Настольный теннис.md",
     "BASIC/ОБУЧЕНИЕ.md",
+    "фото и видео/Снимок экрана 2026-05-26 в 22.14.28.png",
+    "PROGRAMMING/TESTING.md",
+    "PROGRAMMING/SPRING.md",
+    "PROGRAMMING/Soft skills.md",
+    "PROGRAMMING/JAVA/MEMORY.md",
+    "PLANS/26.05.26.md",
     "BASIC/ГАЙД НА ЖИЗНЬ.md",
     "BASIC/ЗДОРОВЬЕ.md",
-    "BASIC/ОТНОШЕНИЯ.md",
     "BASIC/Фильмы.md",
-    "PROGRAMMING/Soft skills.md",
-    "PROGRAMMING/NGINX.md",
+    "BOOKS/АНТИХРУПКОСТЬ.md",
+    "PLANS",
+    "фото и видео/Снимок экрана 2026-05-25 в 22.47.24.png",
+    "PROGRAMMING/JAVA/ООП.md",
+    "BOOKS/ТОНКОЕ ИСКУССТВО ПОФИГИЗМА.md",
     "PROGRAMMING/Общее развитие программиста.md",
-    "PROGRAMMING/Валютные удалёнки.md",
-    "BOOKS/МЯСО.md",
-    "BASIC",
+    "BASIC/ОТНОШЕНИЯ.md",
     "BASIC/ФИНАНСЫ(основа).md",
     "BASIC/ЦЕЛИ.md",
-    "ENGLISH.md",
-    "BOOKS/ТОНКОЕ ИСКУССТВО ПОФИГИЗМА.md",
-    "BOOKS/ПСИХОЛОГИЯ ДЕНЕГ.md",
-    "BOOKS/КАК БЫТЬ СТОИКОМ.md",
-    "BOOKS/ЗАПРАВЛЯЙ КРОВАТЬ.md",
-    "BOOKS/ВСЁ ХРЕНОВО.md",
-    "BOOKS/АНТИХРУПКОСТЬ.md",
-    "Тренировки.md",
-    "PROGRAMMING/BASIC BACKEND.md",
-    "PROGRAMMING/DISTRIBUTED SYSTEMS.md",
-    "PROGRAMMING/TESTING.md",
-    "BOOKS/АРХИТЕКТУРА КОРПОРАТИВНЫХ ПРИЛОЖЕНИЙ.md",
-    "PROGRAMMING/SPRING.md",
-    "PROGRAMMING/SYSTEM DESIGN/МОНОЛИТНАЯ АРХИТЕКТУРА.md",
+    "BASIC",
     "PROGRAMMING/SYSTEM DESIGN/МАСШТАБИРОВАНИЕ СИСТЕМ",
     "PROGRAMMING/SYSTEM DESIGN/НФТ",
     "PROGRAMMING/SYSTEM DESIGN",
@@ -268,11 +214,8 @@
     "Untitled.base",
     "Untitled 1.base",
     "фото и видео/Снимок экрана 2026-01-24 в 13.02.23.png",
-    "фото и видео/Снимок экрана 2026-01-24 в 13.02.00.png",
-    "фото и видео/Снимок экрана 2026-01-24 в 13.01.38.png",
     "Untitled 2.base",
     "фото и видео/Иванов-анализы6.pdf",
-    "фото и видео/Иванов-анализы5.pdf",
-    "фото и видео/Иванов-анализы4.pdf"
+    "фото и видео/Иванов-анализы5.pdf"
   ]
 }
