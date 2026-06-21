@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASIC/ЖЕЛЕЗНАЯ ПСИХИКА.md",
+                "file": "BASIC/ЗДОРОВЬЕ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ЖЕЛЕЗНАЯ ПСИХИКА"
+              "title": "ЗДОРОВЬЕ"
             }
           }
         ]
@@ -171,9 +171,11 @@
   },
   "active": "3bc5193bc4cdef0f",
   "lastOpenFiles": [
-    "BASIC/ОБУЧЕНИЕ.md",
-    "BASIC/ГАЙД НА ЖИЗНЬ.md",
     "BASIC/ЖЕЛЕЗНАЯ ПСИХИКА.md",
+    "BASIC/ЗДОРОВЬЕ.md",
+    "BASIC/ГАЙД НА ЖИЗНЬ.md",
+    "фото и видео/Снимок экрана 2026-06-18 в 17.07.47.png",
+    "BASIC/ОБУЧЕНИЕ.md",
     "PROGRAMMING/OBSERVABILITY.md",
     "PROGRAMMING/Soft skills.md",
     "PROGRAMMING/TESTING.md",
@@ -197,7 +199,6 @@
     "PROGRAMMING/JAVA/MULTITHREADING.md",
     "PROGRAMMING/DATABASE.md",
     "PROGRAMMING/JAVA/ООП.md",
-    "PROGRAMMING/DISTRIBUTED SYSTEMS.md",
     "фото и видео/Снимок экрана 2026-05-26 в 22.14.28.png",
     "PLANS",
     "фото и видео/Снимок экрана 2026-05-25 в 22.47.24.png",
@@ -214,7 +215,6 @@
     "фото и видео/85B14CBD-AEC6-4086-A3F9-10E482E589DD_1_105_c.jpeg",
     "Untitled.base",
     "Untitled 1.base",
-    "фото и видео/Снимок экрана 2026-01-24 в 13.02.23.png",
     "Untitled 2.base",
     "фото и видео/Иванов-анализы6.pdf"
   ]
