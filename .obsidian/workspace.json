@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d085758d771af46",
+        "id": "b2e997322ff608f3",
         "type": "tabs",
         "children": [
           {
-            "id": "2462e58bb9e0ba37",
+            "id": "e42e41ee89e56994",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLANS/19.07.26.md",
+                "file": "BASIC/ОТНОШЕНИЯ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19.07.26"
+              "title": "ОТНОШЕНИЯ"
             }
           }
         ]
@@ -169,10 +169,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "2462e58bb9e0ba37",
+  "active": "e42e41ee89e56994",
   "lastOpenFiles": [
-    "BASIC/ЖЕЛЕЗНАЯ ПСИХИКА.md",
+    "TODO TOBUY.md",
+    "Настольный теннис.md",
+    "PLANS/21.07.26.md",
     "PLANS/19.07.26.md",
+    "BASIC/ЖЕЛЕЗНАЯ ПСИХИКА.md",
+    "BASIC/тест1.md",
+    "Эмоциональная регуляция.md",
+    "фото и видео/Снимок экрана 2026-07-20 в 20.18.19.png",
+    "фото и видео/Снимок экрана 2026-07-20 в 20.16.55.png",
+    "фото и видео/Снимок экрана 2026-07-20 в 20.15.51.png",
+    "PLANS/неделя 20.07.26 - 26.07.26.md",
+    "PROGRAMMING/HR/SOFT SKILLS STORIES.md",
+    "PROGRAMMING/HR/Hr.md",
     "BASIC/ОТНОШЕНИЯ.md",
     "BASIC/Отношения new.md",
     "BASIC/ГАЙД НА ЖИЗНЬ.md",
@@ -181,7 +192,6 @@
     "BASIC/СПОРТ.md",
     "PLANS/18.07.26.md",
     "ВНЕДРИТЬ.md",
-    "TODO TOBUY.md",
     "Без названия.base",
     "BASIC/БАДЫ.md",
     "PLANS/16.07.26.md",
@@ -191,14 +201,7 @@
     "BASIC/Фильмы.md",
     "BASIC/ФИНАНСЫ(основа).md",
     "PROGRAMMING/JAVA/COLLECTIONS/POPULAR ALGO TECHNICS.md",
-    "PROGRAMMING/JAVA/MULTITHREADING.md",
-    "PLANS/15.07.26.md",
-    "PLANS/12.07.26.md",
-    "BASIC/ЗДОРОВЬЕ.md",
     "фото и видео/Снимок экрана 2026-07-14 в 16.22.27.png",
-    "Настольный теннис.md",
-    "BOOKS/АНТИХРУПКОСТЬ.md",
-    "PLANS/26.05.26.md",
     "PROGRAMMING/HR",
     "фото и видео/Pasted image 20260702110810.png",
     "фото и видео/Снимок экрана 2026-06-18 в 17.07.47.png",
@@ -212,9 +215,6 @@
     "PROGRAMMING/SYSTEM DESIGN",
     "фото и видео/Снимок экрана 2026-02-21 в 14.38.35.png",
     "фото и видео/Снимок экрана 2026-02-21 в 14.35.06.png",
-    "фото и видео/Снимок экрана 2026-02-19 в 23.01.26.png",
-    "фото и видео/Снимок экрана 2026-01-10 в 14.55.45.png",
-    "фото и видео/07EB9C2C-DBFB-47CF-B204-273A29188BBF_1_105_c.jpeg",
     "Untitled.base",
     "Untitled 1.base"
   ]
