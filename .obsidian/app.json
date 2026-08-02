@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "фото и видео"
+  "attachmentFolderPath": "фото и видео",
+  "promptDelete": false
 }
